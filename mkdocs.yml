@@ -1,6 +1,0 @@
-site_name: GmanSec
-theme:
-  name: material
-
-plugins:
-  - blog
